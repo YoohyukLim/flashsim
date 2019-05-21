@@ -15,4 +15,3 @@ Bibtex
 The FTL algorihms are implemented on top of the Flash based SSD simulator implementation created by Brendan Tauras btauras, Youngjae Kim, Aayush Gupta at Pennsylvania State University.
 
 # FlashSim with Multi-stream and SLC & MLC convertible programming features
-This project was extended by Yoohyuk Lim of Sungkyunkwan University.
